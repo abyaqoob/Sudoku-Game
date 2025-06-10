@@ -31,13 +31,7 @@
     </li>
   </ol>
 
-  <h2>🧱 Technologies Used</h2>
-  <ul>
-    <li>NASM (Netwide Assembler)</li>
-    <li>x86 Assembly Language</li>
-    <li>BIOS interrupts (INT 0x10, INT 0x16)</li>
-    <li>VGA text-mode memory (<code>0xB800</code>)</li>
-  </ul>
+  
 
   <h2>📂 Project Structure</h2>
   <ul>
