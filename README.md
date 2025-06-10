@@ -48,12 +48,7 @@
   <h2>📸 Screenshots</h2>
   <p><em>Add screenshots of main menu, gameplay and win/lose screen here.</em></p>
 
-  <h2>📜 License</h2>
-  <p>This project is for educational use only.</p>
 
-  <div class="note">
-    <strong>Note:</strong> Make sure to run this in a compatible environment (like DOSBox) since it directly accesses memory and hardware interrupts.
-  </div>
 
 </body>
 </html>
