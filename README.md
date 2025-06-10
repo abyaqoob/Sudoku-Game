@@ -1,43 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      color: #333;
-      line-height: 1.6;
-      padding: 20px;
-      max-width: 900px;
-      margin: auto;
-    }
-    h1, h2, h3 {
-      color: #005f73;
-    }
-    code {
-      background: #e0e0e0;
-      padding: 2px 4px;
-      border-radius: 4px;
-      font-family: Consolas, monospace;
-    }
-    pre {
-      background: #272822;
-      color: #f8f8f2;
-      padding: 15px;
-      overflow-x: auto;
-      border-radius: 5px;
-    }
-    .note {
-      background-color: #fff3cd;
-      border-left: 6px solid #ffeeba;
-      padding: 10px;
-      margin: 20px 0;
-    }
-  </style>
-</head>
 <body>
 
   <h1>🧩 Sudoku Game (x86 Assembly)</h1>
