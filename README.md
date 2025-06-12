@@ -49,8 +49,8 @@
 
 
 <h3>🧠 Gameplay with Notes</h3>
-<img src="img3.png" alt="Gameplay with Notes" width="600">
 <img src="img4.png" alt="Gameplay with Notes" width="600">
+<img src="img3.png" alt="Gameplay with Notes" width="600">
 <img src="img5.png" alt="Gameplay with Notes" width="600">
 
 <h3>✅ Winning Screen</h3>
