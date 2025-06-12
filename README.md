@@ -42,20 +42,20 @@
 
   <h2>📸 Screenshots</h2>
 
-<h3>📌 Main Menu</h3>
-<img src="mainmenu.png" alt="Main Menu" width="600">
+<h3>📌Difficulty Selection</h3>
+<img src="mainmenu.png" alt="Level Selection" width="600">
 
 
-<img src="img1.png" alt="Level Selection" width="600">
+
 
 <h3>🧠 Gameplay with Notes</h3>
-<img src="images/gameplay-notes.png" alt="Gameplay with Notes" width="600">
+<img src="img2.png" alt="Gameplay with Notes" width="600">
 
 <h3>✅ Winning Screen</h3>
-<img src="images/win.png" alt="Win Screen" width="600">
+<img src="img1.png" alt="Win Screen" width="600">
 
 <h3>❌ Losing Screen</h3>
-<img src="images/lose.png" alt="Lose Screen" width="600">
+<img src="img2.png" alt="Lose Screen" width="600">
 
   
 
