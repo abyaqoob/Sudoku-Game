@@ -26,9 +26,7 @@
     <li>Assemble the code using NASM:<br>
       <pre>nasm -f bin sudoku.asm -o sudoku.com</pre>
     </li>
-    <li>Run it using DOSBox or any x86 emulator:<br>
-      <pre>dosbox sudoku.com</pre>
-    </li>
+   
   </ol>
 
   
